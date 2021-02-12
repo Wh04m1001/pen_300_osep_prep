@@ -21,7 +21,7 @@ Collection of resources used in prep for OSEP, including course material progres
 - [ ] Read course content
 - [ ] Complete all exercises
 - [ ] Complete extra miles
-- [ ] Complete labs
+- [x] Complete labs
 
 ## Syllabus
 - [x] 1. Evasion Techniques and Breaching Defenses: General Course Information
